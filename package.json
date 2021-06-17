@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "@openzeppelin/contracts-upgradeable": "^4.1.0",
+    "@pooltogether/fixed-point": "^1.0.0",
+    "@pooltogether/uniform-random-number": "*",
+    "@pooltogether/yield-source-interface": "^1.0.1"
+  }
+}
